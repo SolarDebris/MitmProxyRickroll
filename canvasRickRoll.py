@@ -1,3 +1,8 @@
+"""This is a simple rick roll script for MitMProxy. It takes any submission on
+canvas and makes the submit button go to a rick roll instead.
+"""
+__author__ = ["Nick Cottrell", "Robbie Heine", "Alex Schmith"]
+
 from mitmproxy import http
 
 
